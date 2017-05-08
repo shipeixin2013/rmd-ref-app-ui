@@ -13,7 +13,7 @@ var config = {
         clientId: '2',
         clientSecret: '5MxpEBL52JHz9WwxRn3I5KCdVKBSEaxLeKLuXhsZ',
         serverUrl: 'http://uaanew-amom43yj.i.saasapps.cn/',
-        redirect_uri: 'http://rmx.i.saasapps.cn/callback',
+        redirect_uri: 'http://rmu.i.saasapps.cn/callback',
         defaultClientRoute: '/about'
 
     },
