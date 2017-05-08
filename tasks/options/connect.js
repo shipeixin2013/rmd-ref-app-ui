@@ -10,8 +10,8 @@ var config = {
    */
     uaa: {
 
-        clientId: '2',
-        clientSecret: '5MxpEBL52JHz9WwxRn3I5KCdVKBSEaxLeKLuXhsZ',
+        clientId: '3',
+        clientSecret: 'IdzVuqwAPK0s60NGHQhUIlTYVIuSGpo57miyKvxd',
         serverUrl: 'http://uaanew-amom43yj.i.saasapps.cn/',
         redirect_uri: 'http://rmu.i.saasapps.cn/callback',
         defaultClientRoute: '/about'
