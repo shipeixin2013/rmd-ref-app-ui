@@ -12,8 +12,8 @@ var config = {
 
         clientId: '2',
         clientSecret: 'Brtk5OtRwFaye4fyyIcbUUaiBNVzntz0FmaFqPrc',
-        serverUrl: 'http://uaanew-amom43yj.i.saasapps.cn/',
-        redirect_uri: 'http://uaanew-amom43yj.i.saasapps.cn/callback',
+        serverUrl: 'http://myuaa-amom43yj.i.saasapps.cn',
+        redirect_uri: 'http://rmdx1.i.saasapps.cn/callback',
         defaultClientRoute: '/about'
 
     },
